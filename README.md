@@ -1,9 +1,7 @@
-# Assignment Description
+# Hero's Journey Day chhose your own adventure game
 
-written by 
+written by JG '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* A game board, an instruction packet and features (trees, etc) are used in this game.
